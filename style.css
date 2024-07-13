@@ -485,7 +485,7 @@ footer {
 footer p {
     margin: 0;
 }
-/* 
+
 .icon
 {
     margin-top: 20px;
@@ -493,7 +493,7 @@ footer p {
     margin-left: 700px;
     display: flex;
     gap: 40px;
-} */
+} 
 
 .content{
     margin-top: 10px;
